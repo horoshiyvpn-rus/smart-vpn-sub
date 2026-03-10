@@ -1,0 +1,15 @@
+{
+  "updated": "2026-03-10T22:15:35.170937+00:00",
+  "best_server": {
+    "name": "%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK",
+    "host": "95.163.210.30",
+    "port": 8080,
+    "ping_ms": 187,
+    "is_vk": true
+  },
+  "tested_count": 100,
+  "working_count": 76,
+  "vk_servers_found": 101,
+  "vk_servers_working": 60,
+  "excluded_count": 184
+}

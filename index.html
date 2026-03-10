@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VPN Subscription</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
+                max-width: 600px; margin: 40px auto; padding: 20px; background: #0f172a; color: #e2e8f0; }
+        .card { background: #1e293b; padding: 20px; border-radius: 12px; margin: 20px 0; }
+        .success { color: #22c55e; }
+        .info { color: #94a3b8; font-size: 14px; }
+        code { background: #0f172a; color: #22c55e; padding: 8px 12px; 
+                border-radius: 6px; display: block; word-break: break-all; }
+        .btn { background: #3b82f6; color: white; padding: 12px 24px; 
+                border-radius: 8px; text-decoration: none; display: inline-block; }
+        .badge { display: inline-block; padding: 4px 12px; border-radius: 20px; 
+                  font-size: 12px; font-weight: bold; }
+        .badge-vk { background: #0077FF; color: white; }
+        .badge-std { background: #6b7280; color: white; }
+        h1 { color: #22c55e; }
+    </style>
+</head>
+<body>
+    <h1>🔐 VPN Subscription</h1>
+    
+    <div class="card">
+        <h3 class="success">✅ Сервер обновлён</h3>
+        <p class="info">Последнее обновление: <span id="time"></span></p>
+        <p><span class="badge badge-vk">🟣 VK Priority</span></p>
+        <p><strong>Сервер:</strong> %F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK</p>
+        <p><strong>Пинг:</strong> 187 ms</p>
+        <p><strong>VK Сервер:</strong> ✅ Да</p>
+        <p><strong>Протестировано:</strong> 100 серверов</p>
+        <p><strong>Рабочих:</strong> 76</p>
+    </div>
+    
+    <div class="card">
+        <h3>📋 Ссылка для импорта</h3>
+        <p class="info">Скопируйте в Streisand / Hiddify / v2rayNG:</p>
+        <code>https://bolotov-775-hue.github.io/smart-vpn-sub/sub.txt</code>
+    </div>
+    
+    <div class="card">
+        <h3>📥 Прямая ссылка</h3>
+        <a href="sub.txt" class="btn">Скачать sub.txt</a>
+    </div>
+    
+    <script>
+        document.getElementById('time').textContent = new Date().toISOString();
+    </script>
+</body>
+</html>
