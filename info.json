@@ -1,14 +1,14 @@
 {
-  "updated": "2026-03-11T11:26:48.293122+00:00",
+  "updated": "2026-03-11T12:40:57.529225+00:00",
   "best_server": {
     "name": "HoroshiyVPN | LTE",
-    "host": "95.163.209.18",
+    "host": "95.163.210.52",
     "port": 443,
-    "ping_ms": 141,
+    "ping_ms": 128,
     "is_vk": true
   },
   "tested_count": 46,
-  "working_count": 34,
+  "working_count": 31,
   "vk_servers_found": 30,
   "vk_servers_working": 22,
   "excluded_count": 149
