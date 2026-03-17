@@ -1,19 +1,19 @@
 {
-  "updated": "2026-03-16T21:57:28.433497+00:00",
+  "updated": "2026-03-17T05:15:07.179193+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK",
-    "host": "83.166.249.42",
+    "name": "%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20VK",
+    "host": "90.156.214.82",
     "port": 52006,
-    "ping_ms": 188,
+    "ping_ms": 124,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 117,
-  "stable_count": 91,
-  "vk_servers_found": 104,
-  "ya_servers_found": 13,
-  "excluded_count": 53,
-  "blacklist_size": 1
+  "tested_count": 61,
+  "stable_count": 50,
+  "vk_servers_found": 57,
+  "ya_servers_found": 4,
+  "excluded_count": 63,
+  "blacklist_size": 0
 }
