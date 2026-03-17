@@ -1,19 +1,19 @@
 {
-  "updated": "2026-03-17T08:06:15.342034+00:00",
+  "updated": "2026-03-17T09:32:01.769118+00:00",
   "best_server": {
-    "name": "%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK",
-    "host": "83.166.248.86",
+    "name": "🇩🇪 verified · t.me/XRayCheck",
+    "host": "109.122.197.27",
     "port": 443,
-    "ping_ms": 152,
+    "ping_ms": 99,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 46,
-  "stable_count": 23,
-  "vk_servers_found": 22,
-  "ya_servers_found": 24,
-  "excluded_count": 63,
-  "blacklist_size": 3
+  "tested_count": 300,
+  "stable_count": 159,
+  "vk_servers_found": 321,
+  "ya_servers_found": 23,
+  "excluded_count": 288,
+  "blacklist_size": 108
 }
