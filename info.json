@@ -1,17 +1,17 @@
 {
-  "updated": "2026-03-18T21:52:05.185779+00:00",
+  "updated": "2026-03-18T21:52:12.739977+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-    "host": "212.233.97.161",
+    "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK",
+    "host": "79.137.174.6",
     "port": 443,
-    "ping_ms": 197,
+    "ping_ms": 199,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
   "tested_count": 80,
-  "stable_count": 30,
+  "stable_count": 31,
   "vk_servers_found": 52,
   "ya_servers_found": 28,
   "excluded_count": 95,
