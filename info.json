@@ -1,19 +1,19 @@
 {
-  "updated": "2026-03-23T11:11:05.989772+00:00",
+  "updated": "2026-03-23T15:40:58.028285+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK",
-    "host": "5.188.142.233",
+    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
+    "host": "5.188.141.186",
     "port": 443,
-    "ping_ms": 133,
+    "ping_ms": 127,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 59,
-  "stable_count": 46,
-  "vk_servers_found": 44,
-  "ya_servers_found": 19,
-  "excluded_count": 120,
+  "tested_count": 39,
+  "stable_count": 33,
+  "vk_servers_found": 37,
+  "ya_servers_found": 2,
+  "excluded_count": 92,
   "blacklist_size": 0
 }
