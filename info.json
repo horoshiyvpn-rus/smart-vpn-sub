@@ -1,19 +1,19 @@
 {
-  "updated": "2026-03-29T21:04:04.254483+00:00",
+  "updated": "2026-03-30T06:19:57.310186+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-    "host": "109.120.181.41",
+    "name": "%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK",
+    "host": "most-ee.harknmav.fun",
     "port": 443,
-    "ping_ms": 193,
+    "ping_ms": 162,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 84,
-  "stable_count": 49,
-  "vk_servers_found": 82,
-  "ya_servers_found": 3,
-  "excluded_count": 80,
-  "blacklist_size": 1
+  "tested_count": 280,
+  "stable_count": 168,
+  "vk_servers_found": 276,
+  "ya_servers_found": 5,
+  "excluded_count": 157,
+  "blacklist_size": 2
 }
