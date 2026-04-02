@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-02T11:12:18.917237+00:00",
+  "updated": "2026-04-02T15:38:51.685667+00:00",
   "best_server": {
-    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK",
-    "host": "most-gr2.harknmav.fun",
+    "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK",
+    "host": "217.16.23.58",
     "port": 443,
-    "ping_ms": 198,
+    "ping_ms": 145,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 23,
-  "stable_count": 19,
-  "vk_servers_found": 19,
-  "ya_servers_found": 4,
-  "excluded_count": 14,
-  "blacklist_size": 2
+  "tested_count": 61,
+  "stable_count": 42,
+  "vk_servers_found": 59,
+  "ya_servers_found": 2,
+  "excluded_count": 86,
+  "blacklist_size": 1
 }
