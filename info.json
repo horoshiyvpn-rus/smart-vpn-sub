@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-04T05:15:30.727310+00:00",
+  "updated": "2026-04-04T09:57:43.605724+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5B%2ACIDR%5D%20VK",
-    "host": "109.120.188.50",
-    "port": 2015,
-    "ping_ms": 124,
+    "name": "%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D%20VK",
+    "host": "90.156.215.248",
+    "port": 8443,
+    "ping_ms": 193,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 87,
-  "stable_count": 37,
-  "vk_servers_found": 81,
-  "ya_servers_found": 6,
-  "excluded_count": 310,
-  "blacklist_size": 3
+  "tested_count": 53,
+  "stable_count": 44,
+  "vk_servers_found": 42,
+  "ya_servers_found": 11,
+  "excluded_count": 115,
+  "blacklist_size": 0
 }
