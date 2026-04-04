@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-04T17:49:30.090726+00:00",
+  "updated": "2026-04-04T19:48:55.697403+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D%20VK",
-    "host": "90.156.215.248",
+    "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK",
+    "host": "217.16.29.31",
     "port": 443,
-    "ping_ms": 159,
+    "ping_ms": 138,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 36,
-  "stable_count": 28,
-  "vk_servers_found": 31,
-  "ya_servers_found": 6,
-  "excluded_count": 81,
-  "blacklist_size": 1
+  "tested_count": 92,
+  "stable_count": 29,
+  "vk_servers_found": 88,
+  "ya_servers_found": 4,
+  "excluded_count": 96,
+  "blacklist_size": 2
 }
