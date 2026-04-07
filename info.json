@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-06T21:53:53.183959+00:00",
+  "updated": "2026-04-07T06:05:19.510745+00:00",
   "best_server": {
     "name": "%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20YA",
     "host": "51.250.119.189",
     "port": 443,
-    "ping_ms": 154,
+    "ping_ms": 156,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 48,
-  "stable_count": 42,
-  "vk_servers_found": 41,
-  "ya_servers_found": 24,
-  "excluded_count": 90,
-  "blacklist_size": 0
+  "tested_count": 9,
+  "stable_count": 7,
+  "vk_servers_found": 9,
+  "ya_servers_found": 4,
+  "excluded_count": 153,
+  "blacklist_size": 1
 }
