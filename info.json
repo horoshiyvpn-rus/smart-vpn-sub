@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-08T11:34:18.765247+00:00",
+  "updated": "2026-04-08T16:20:47.995396+00:00",
   "best_server": {
-    "name": "%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20%5B%2ACIDR%5D%20YA",
-    "host": "130.193.37.15",
+    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK",
+    "host": "83.166.253.88",
     "port": 443,
-    "ping_ms": 126,
+    "ping_ms": 185,
     "stability": "100%",
-    "is_vk": false,
-    "is_ya": true
+    "is_vk": true,
+    "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 8,
-  "stable_count": 6,
-  "vk_servers_found": 0,
-  "ya_servers_found": 8,
-  "excluded_count": 5,
-  "blacklist_size": 0
+  "tested_count": 35,
+  "stable_count": 32,
+  "vk_servers_found": 18,
+  "ya_servers_found": 17,
+  "excluded_count": 92,
+  "blacklist_size": 1
 }
