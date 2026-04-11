@@ -1,10 +1,10 @@
 {
-  "updated": "2026-04-11T02:36:22.680359+00:00",
+  "updated": "2026-04-11T02:48:36.985373+00:00",
   "best_server": {
     "name": "%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20YA",
-    "host": "51.250.81.183",
+    "host": "51.250.126.221",
     "port": 443,
-    "ping_ms": 155,
+    "ping_ms": 130,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
