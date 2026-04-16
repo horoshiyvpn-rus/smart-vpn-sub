@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-16T17:21:58.086005+00:00",
+  "updated": "2026-04-16T20:56:30.001827+00:00",
   "best_server": {
-    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK",
-    "host": "vk1.voxyvpn.ru",
-    "port": 8443,
-    "ping_ms": 145,
+    "name": "%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK",
+    "host": "185.130.113.39",
+    "port": 5443,
+    "ping_ms": 153,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 29,
-  "stable_count": 23,
-  "vk_servers_found": 15,
-  "ya_servers_found": 16,
-  "excluded_count": 34,
-  "blacklist_size": 1
+  "tested_count": 41,
+  "stable_count": 33,
+  "vk_servers_found": 19,
+  "ya_servers_found": 24,
+  "excluded_count": 35,
+  "blacklist_size": 2
 }
