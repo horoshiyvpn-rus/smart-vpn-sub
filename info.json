@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-16T20:56:30.001827+00:00",
+  "updated": "2026-04-17T03:25:29.303151+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK",
-    "host": "185.130.113.39",
-    "port": 5443,
-    "ping_ms": 153,
+    "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK",
+    "host": "217.16.23.87",
+    "port": 443,
+    "ping_ms": 180,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 41,
-  "stable_count": 33,
-  "vk_servers_found": 19,
-  "ya_servers_found": 24,
-  "excluded_count": 35,
-  "blacklist_size": 2
+  "tested_count": 24,
+  "stable_count": 24,
+  "vk_servers_found": 12,
+  "ya_servers_found": 12,
+  "excluded_count": 13,
+  "blacklist_size": 0
 }
