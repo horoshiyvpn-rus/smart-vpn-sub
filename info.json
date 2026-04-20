@@ -1,17 +1,17 @@
 {
-  "updated": "2026-04-19T20:46:42.612764+00:00",
+  "updated": "2026-04-20T03:34:51.756381+00:00",
   "best_server": {
     "name": "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5B%2ACIDR%5D%20VK",
     "host": "83.166.255.130",
     "port": 443,
-    "ping_ms": 167,
+    "ping_ms": 147,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
   "tested_count": 21,
-  "stable_count": 16,
+  "stable_count": 17,
   "vk_servers_found": 12,
   "ya_servers_found": 9,
   "excluded_count": 3,
