@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-21T06:07:15.694037+00:00",
+  "updated": "2026-04-21T09:45:38.181811+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK",
-    "host": "217.16.27.166",
-    "port": 9090,
-    "ping_ms": 144,
+    "name": "%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK",
+    "host": "auto5.wequ.host",
+    "port": 443,
+    "ping_ms": 172,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 24,
-  "stable_count": 23,
-  "vk_servers_found": 7,
-  "ya_servers_found": 17,
-  "excluded_count": 21,
+  "tested_count": 8,
+  "stable_count": 5,
+  "vk_servers_found": 5,
+  "ya_servers_found": 4,
+  "excluded_count": 7,
   "blacklist_size": 0
 }
