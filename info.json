@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-23T06:10:36.081604+00:00",
+  "updated": "2026-04-23T09:50:15.810751+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20YA",
-    "host": "178.154.211.221",
-    "port": 443,
-    "ping_ms": 128,
+    "name": "%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B%2ACIDR%5D%20YA",
+    "host": "178.154.214.69",
+    "port": 13569,
+    "ping_ms": 127,
     "stability": "100%",
     "is_vk": false,
     "is_ya": true
   },
-  "top_servers_count": 3,
-  "tested_count": 4,
-  "stable_count": 3,
-  "vk_servers_found": 3,
-  "ya_servers_found": 2,
-  "excluded_count": 0,
+  "top_servers_count": 5,
+  "tested_count": 17,
+  "stable_count": 5,
+  "vk_servers_found": 8,
+  "ya_servers_found": 10,
+  "excluded_count": 2,
   "blacklist_size": 1
 }
