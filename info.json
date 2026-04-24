@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-24T06:13:47.059869+00:00",
+  "updated": "2026-04-24T09:50:12.729853+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%5B%2ACIDR%5D%20VK",
-    "host": "95.163.183.153",
-    "port": 443,
-    "ping_ms": 191,
+    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA",
+    "host": "51.250.96.241",
+    "port": 5555,
+    "ping_ms": 161,
     "stability": "100%",
     "is_vk": true,
-    "is_ya": false
+    "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 107,
-  "stable_count": 86,
-  "vk_servers_found": 60,
-  "ya_servers_found": 57,
-  "excluded_count": 65,
-  "blacklist_size": 3
+  "tested_count": 175,
+  "stable_count": 126,
+  "vk_servers_found": 132,
+  "ya_servers_found": 52,
+  "excluded_count": 17,
+  "blacklist_size": 1
 }
