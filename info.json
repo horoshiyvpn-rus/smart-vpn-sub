@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-25T13:19:00.954632+00:00",
+  "updated": "2026-04-25T16:52:42.473723+00:00",
   "best_server": {
-    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK",
-    "host": "denode2.frost-api.com",
+    "name": "%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA",
+    "host": "84.201.162.61",
     "port": 443,
-    "ping_ms": 153,
+    "ping_ms": 131,
     "stability": "100%",
     "is_vk": true,
-    "is_ya": false
+    "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 74,
-  "stable_count": 65,
-  "vk_servers_found": 64,
-  "ya_servers_found": 19,
-  "excluded_count": 22,
+  "tested_count": 48,
+  "stable_count": 40,
+  "vk_servers_found": 21,
+  "ya_servers_found": 30,
+  "excluded_count": 8,
   "blacklist_size": 0
 }
