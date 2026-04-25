@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-25T03:15:32.795153+00:00",
+  "updated": "2026-04-25T05:51:30.329857+00:00",
   "best_server": {
     "name": "%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA",
     "host": "84.201.152.16",
-    "port": 443,
-    "ping_ms": 184,
+    "port": 51190,
+    "ping_ms": 146,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 117,
-  "stable_count": 103,
-  "vk_servers_found": 88,
-  "ya_servers_found": 36,
-  "excluded_count": 54,
+  "tested_count": 56,
+  "stable_count": 38,
+  "vk_servers_found": 35,
+  "ya_servers_found": 30,
+  "excluded_count": 7,
   "blacklist_size": 1
 }
