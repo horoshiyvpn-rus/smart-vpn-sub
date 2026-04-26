@@ -1,19 +1,19 @@
 {
-  "updated": "2026-04-26T06:12:02.654715+00:00",
+  "updated": "2026-04-26T09:08:39.038530+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA",
-    "host": "158.160.32.64",
+    "name": "%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA",
+    "host": "84.201.162.61",
     "port": 443,
-    "ping_ms": 171,
+    "ping_ms": 188,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 46,
-  "stable_count": 25,
-  "vk_servers_found": 34,
-  "ya_servers_found": 14,
-  "excluded_count": 19,
+  "tested_count": 83,
+  "stable_count": 57,
+  "vk_servers_found": 58,
+  "ya_servers_found": 29,
+  "excluded_count": 78,
   "blacklist_size": 0
 }
