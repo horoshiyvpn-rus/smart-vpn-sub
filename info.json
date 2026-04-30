@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T14:12:22.924294+00:00",
+  "updated": "2026-04-30T17:26:24.298293+00:00",
   "best_server": {
     "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
     "host": "109.120.188.50",
@@ -10,10 +10,10 @@
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 24,
-  "stable_count": 17,
+  "tested_count": 21,
+  "stable_count": 14,
   "vk_servers_found": 14,
-  "ya_servers_found": 10,
-  "excluded_count": 9,
+  "ya_servers_found": 7,
+  "excluded_count": 2,
   "blacklist_size": 0
 }
