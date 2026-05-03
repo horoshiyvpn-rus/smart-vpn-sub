@@ -1,19 +1,19 @@
 {
-  "updated": "2026-05-03T16:58:49.164808+00:00",
+  "updated": "2026-05-03T20:54:09.336092+00:00",
   "best_server": {
     "name": "%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA",
     "host": "51.250.94.95",
     "port": 443,
-    "ping_ms": 164,
+    "ping_ms": 140,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 65,
-  "stable_count": 57,
+  "tested_count": 53,
+  "stable_count": 51,
   "vk_servers_found": 33,
-  "ya_servers_found": 43,
-  "excluded_count": 24,
-  "blacklist_size": 0
+  "ya_servers_found": 34,
+  "excluded_count": 8,
+  "blacklist_size": 2
 }
