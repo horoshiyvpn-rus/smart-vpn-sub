@@ -1,19 +1,19 @@
 {
-  "updated": "2026-05-12T21:38:50.419299+00:00",
+  "updated": "2026-05-13T03:57:35.058250+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK",
-    "host": "91.219.227.200",
-    "port": 8081,
-    "ping_ms": 130,
+    "name": "%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20YA",
+    "host": "84.201.167.108",
+    "port": 443,
+    "ping_ms": 182,
     "stability": "100%",
     "is_vk": true,
-    "is_ya": false
+    "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 62,
-  "stable_count": 57,
-  "vk_servers_found": 59,
+  "tested_count": 103,
+  "stable_count": 85,
+  "vk_servers_found": 75,
   "ya_servers_found": 29,
-  "excluded_count": 10,
-  "blacklist_size": 0
+  "excluded_count": 34,
+  "blacklist_size": 1
 }
