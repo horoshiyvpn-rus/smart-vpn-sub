@@ -1,19 +1,19 @@
 {
-  "updated": "2026-05-14T14:28:53.335602+00:00",
+  "updated": "2026-05-14T17:59:42.547507+00:00",
   "best_server": {
     "name": "%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA",
     "host": "158.160.38.221",
     "port": 443,
-    "ping_ms": 131,
+    "ping_ms": 166,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
   "top_servers_count": 1,
-  "tested_count": 4,
+  "tested_count": 1,
   "stable_count": 1,
-  "vk_servers_found": 4,
+  "vk_servers_found": 1,
   "ya_servers_found": 1,
   "excluded_count": 2,
-  "blacklist_size": 2
+  "blacklist_size": 0
 }
