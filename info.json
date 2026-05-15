@@ -1,19 +1,19 @@
 {
-  "updated": "2026-05-15T04:01:05.397385+00:00",
+  "updated": "2026-05-15T10:32:41.574212+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D%20VK",
-    "host": "37.139.43.164",
+    "name": "%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA",
+    "host": "158.160.105.105",
     "port": 443,
-    "ping_ms": 129,
+    "ping_ms": 176,
     "stability": "100%",
     "is_vk": true,
-    "is_ya": false
+    "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 53,
-  "stable_count": 42,
-  "vk_servers_found": 25,
-  "ya_servers_found": 29,
-  "excluded_count": 39,
-  "blacklist_size": 0
+  "tested_count": 17,
+  "stable_count": 16,
+  "vk_servers_found": 7,
+  "ya_servers_found": 16,
+  "excluded_count": 4,
+  "blacklist_size": 1
 }
