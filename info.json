@@ -1,19 +1,19 @@
 {
-  "updated": "2026-05-15T14:22:29.008105+00:00",
+  "updated": "2026-05-15T17:47:01.900273+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK",
-    "host": "146.185.243.233",
+    "name": "%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA",
+    "host": "158.160.38.221",
     "port": 443,
-    "ping_ms": 252,
+    "ping_ms": 131,
     "stability": "100%",
     "is_vk": true,
-    "is_ya": false
+    "is_ya": true
   },
-  "top_servers_count": 2,
-  "tested_count": 3,
-  "stable_count": 2,
-  "vk_servers_found": 2,
-  "ya_servers_found": 1,
-  "excluded_count": 0,
+  "top_servers_count": 5,
+  "tested_count": 15,
+  "stable_count": 13,
+  "vk_servers_found": 12,
+  "ya_servers_found": 4,
+  "excluded_count": 2,
   "blacklist_size": 0
 }
