@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-06T04:03:02.914468+00:00",
+  "updated": "2026-06-06T10:11:08.210713+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA",
-    "host": "51.250.97.18",
+    "name": "%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK",
+    "host": "b02.connectv.net",
     "port": 443,
-    "ping_ms": 129,
+    "ping_ms": 220,
     "stability": "100%",
-    "is_vk": false,
-    "is_ya": true
+    "is_vk": true,
+    "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 17,
-  "stable_count": 17,
-  "vk_servers_found": 0,
-  "ya_servers_found": 17,
-  "excluded_count": 3,
+  "tested_count": 13,
+  "stable_count": 13,
+  "vk_servers_found": 1,
+  "ya_servers_found": 12,
+  "excluded_count": 9,
   "blacklist_size": 0
 }
