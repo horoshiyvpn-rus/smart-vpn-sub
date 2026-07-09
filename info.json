@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-08T21:14:54.316338+00:00",
+  "updated": "2026-07-09T03:52:33.875290+00:00",
   "best_server": {
     "name": "%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK",
     "host": "217.16.21.129",
     "port": 7443,
-    "ping_ms": 166,
+    "ping_ms": 189,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
-  "top_servers_count": 1,
-  "tested_count": 1,
-  "stable_count": 1,
-  "vk_servers_found": 1,
+  "top_servers_count": 2,
+  "tested_count": 2,
+  "stable_count": 2,
+  "vk_servers_found": 2,
   "ya_servers_found": 0,
-  "excluded_count": 23,
+  "excluded_count": 6,
   "blacklist_size": 0
 }
