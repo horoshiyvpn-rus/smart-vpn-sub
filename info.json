@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T10:04:08.914082+00:00",
+  "updated": "2026-07-14T13:58:03.968360+00:00",
   "best_server": {
     "name": "%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20Beeline",
     "host": "78.159.250.40",
@@ -9,9 +9,9 @@
     "is_vk": false,
     "is_ya": false
   },
-  "top_servers_count": 5,
+  "top_servers_count": 4,
   "tested_count": 5,
-  "stable_count": 5,
+  "stable_count": 4,
   "vk_servers_found": 0,
   "ya_servers_found": 0,
   "excluded_count": 5,
