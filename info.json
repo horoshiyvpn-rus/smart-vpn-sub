@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-17T17:17:21.205027+00:00",
+  "updated": "2026-07-17T21:01:37.960893+00:00",
   "best_server": {
-    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20YA",
-    "host": "bs1.whitehost.org",
+    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA",
+    "host": "93.77.188.102",
     "port": 443,
-    "ping_ms": 189,
+    "ping_ms": 127,
     "stability": "100%",
     "is_vk": false,
     "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 14,
-  "stable_count": 14,
+  "tested_count": 13,
+  "stable_count": 13,
   "vk_servers_found": 0,
   "ya_servers_found": 6,
   "excluded_count": 0,
