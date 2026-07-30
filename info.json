@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-30T21:16:35.863721+00:00",
+  "updated": "2026-07-30T22:17:48.630912+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D%20YA",
-    "host": "node-tw0.omhvp.co",
+    "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA",
+    "host": "51.250.12.15",
     "port": 443,
-    "ping_ms": 146,
+    "ping_ms": 132,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 205,
-  "stable_count": 168,
+  "tested_count": 80,
+  "stable_count": 72,
   "vk_servers_found": 9,
-  "ya_servers_found": 205,
+  "ya_servers_found": 80,
   "excluded_count": 6,
-  "blacklist_size": 0
+  "blacklist_size": 2
 }
