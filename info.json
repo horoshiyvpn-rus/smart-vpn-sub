@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-30T06:32:36.814313+00:00",
+  "updated": "2026-07-30T10:30:10.585878+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D%20YA",
-    "host": "node-tw0.omhvp.co",
+    "name": "%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%5B%2ACIDR%5D%20YA",
+    "host": "94.126.206.121",
     "port": 443,
-    "ping_ms": 134,
+    "ping_ms": 143,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
   "top_servers_count": 5,
-  "tested_count": 192,
-  "stable_count": 191,
+  "tested_count": 29,
+  "stable_count": 28,
   "vk_servers_found": 27,
-  "ya_servers_found": 192,
-  "excluded_count": 25,
+  "ya_servers_found": 27,
+  "excluded_count": 41,
   "blacklist_size": 0
 }
