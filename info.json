@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-02T03:31:03.884035+00:00",
+  "updated": "2026-08-02T06:38:25.242033+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D%20YA",
+    "name": "%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D%20YA",
     "host": "94.126.206.121",
     "port": 443,
-    "ping_ms": 153,
+    "ping_ms": 131,
     "stability": "100%",
     "is_vk": true,
     "is_ya": true
   },
-  "top_servers_count": 5,
-  "tested_count": 27,
-  "stable_count": 18,
-  "vk_servers_found": 27,
+  "top_servers_count": 4,
+  "tested_count": 4,
+  "stable_count": 4,
+  "vk_servers_found": 4,
   "ya_servers_found": 4,
-  "excluded_count": 21,
+  "excluded_count": 16,
   "blacklist_size": 0
 }
