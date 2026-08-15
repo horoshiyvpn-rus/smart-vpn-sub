@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-15T04:36:53.853484+00:00",
+  "updated": "2026-08-15T08:35:20.009672+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20VK",
+    "name": "%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B%2ACIDR%5D%20VK",
     "host": "90.156.218.236",
     "port": 443,
-    "ping_ms": 208,
+    "ping_ms": 201,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
-  "top_servers_count": 1,
-  "tested_count": 1,
-  "stable_count": 1,
-  "vk_servers_found": 1,
+  "top_servers_count": 2,
+  "tested_count": 2,
+  "stable_count": 2,
+  "vk_servers_found": 2,
   "ya_servers_found": 0,
   "excluded_count": 0,
   "blacklist_size": 0
