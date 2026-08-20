@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T20:24:32.230199+00:00",
+  "updated": "2026-08-20T20:34:20.513749+00:00",
   "best_server": {
     "name": "%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D%20Beeline",
     "host": "78.159.246.204",
     "port": 2027,
-    "ping_ms": 155,
+    "ping_ms": 139,
     "stability": "100%",
     "is_vk": false,
     "is_ya": false
