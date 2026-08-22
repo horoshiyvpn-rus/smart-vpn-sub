@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-22T08:36:16.290941+00:00",
+  "updated": "2026-08-22T12:49:29.445052+00:00",
   "best_server": {
     "name": "%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D%20Beeline",
     "host": "78.159.250.33",
     "port": 9002,
-    "ping_ms": 145,
+    "ping_ms": 147,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
-  "top_servers_count": 3,
+  "top_servers_count": 1,
   "tested_count": 5,
-  "stable_count": 3,
+  "stable_count": 1,
   "vk_servers_found": 5,
   "ya_servers_found": 0,
-  "excluded_count": 10,
+  "excluded_count": 0,
   "blacklist_size": 0
 }
