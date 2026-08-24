@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-24T01:42:53.175644+00:00",
+  "updated": "2026-08-24T04:51:32.514214+00:00",
   "best_server": {
     "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20Beeline",
     "host": "78.159.250.33",
     "port": 9002,
-    "ping_ms": 125,
+    "ping_ms": 182,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
