@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-02T14:37:23.646771+00:00",
+  "updated": "2026-10-02T20:34:07.305818+00:00",
   "best_server": {
-    "name": "%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%7C%20%5B%2ACIDR%5D%20VK",
+    "name": "%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%5B%2ACIDR%5D%20VK",
     "host": "37.139.42.225",
     "port": 7448,
-    "ping_ms": 161,
+    "ping_ms": 189,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
-  "top_servers_count": 4,
-  "tested_count": 4,
-  "stable_count": 4,
-  "vk_servers_found": 4,
+  "top_servers_count": 5,
+  "tested_count": 18,
+  "stable_count": 10,
+  "vk_servers_found": 18,
   "ya_servers_found": 0,
   "excluded_count": 0,
   "blacklist_size": 0
