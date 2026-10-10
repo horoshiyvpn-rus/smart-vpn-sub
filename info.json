@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-09T20:42:57.466414+00:00",
+  "updated": "2026-10-10T01:04:31.614172+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA",
-    "host": "84.201.146.8",
+    "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK",
+    "host": "90.156.218.163",
     "port": 443,
-    "ping_ms": 154,
+    "ping_ms": 195,
     "stability": "100%",
-    "is_vk": false,
-    "is_ya": true
+    "is_vk": true,
+    "is_ya": false
   },
-  "top_servers_count": 4,
-  "tested_count": 4,
-  "stable_count": 4,
-  "vk_servers_found": 0,
-  "ya_servers_found": 4,
-  "excluded_count": 0,
+  "top_servers_count": 5,
+  "tested_count": 23,
+  "stable_count": 11,
+  "vk_servers_found": 23,
+  "ya_servers_found": 0,
+  "excluded_count": 3,
   "blacklist_size": 0
 }
