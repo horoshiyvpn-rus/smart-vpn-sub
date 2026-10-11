@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-10T23:23:23.297147+00:00",
+  "updated": "2026-10-11T05:13:30.354566+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK",
-    "host": "90.156.218.163",
+    "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK",
+    "host": "m-vruvc.mvpstr.com",
     "port": 443,
-    "ping_ms": 197,
+    "ping_ms": 200,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 5,
-  "tested_count": 17,
-  "stable_count": 10,
-  "vk_servers_found": 17,
+  "tested_count": 20,
+  "stable_count": 8,
+  "vk_servers_found": 20,
   "ya_servers_found": 0,
-  "excluded_count": 0,
+  "excluded_count": 1,
   "blacklist_size": 0
 }
