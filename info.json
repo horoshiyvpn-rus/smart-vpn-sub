@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-16T22:42:29.497794+00:00",
+  "updated": "2026-10-17T03:54:40.707391+00:00",
   "best_server": {
-    "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK",
+    "name": "%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK",
     "host": "90.156.218.163",
     "port": 443,
-    "ping_ms": 196,
+    "ping_ms": 176,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
-  "top_servers_count": 5,
-  "tested_count": 19,
-  "stable_count": 12,
-  "vk_servers_found": 17,
-  "ya_servers_found": 2,
-  "excluded_count": 25,
+  "top_servers_count": 3,
+  "tested_count": 6,
+  "stable_count": 3,
+  "vk_servers_found": 6,
+  "ya_servers_found": 0,
+  "excluded_count": 24,
   "blacklist_size": 0
 }
