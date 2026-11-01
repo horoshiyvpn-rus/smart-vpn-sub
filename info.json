@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-01T14:53:03.100615+00:00",
+  "updated": "2026-11-01T20:23:28.430355+00:00",
   "best_server": {
     "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK",
-    "host": "185.86.145.37",
-    "port": 443,
-    "ping_ms": 134,
+    "host": "cdn.freetato-converting.ru",
+    "port": 2096,
+    "ping_ms": 378,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
   "top_servers_count": 1,
-  "tested_count": 2,
+  "tested_count": 1,
   "stable_count": 1,
   "vk_servers_found": 1,
-  "ya_servers_found": 1,
-  "excluded_count": 37,
-  "blacklist_size": 1
+  "ya_servers_found": 0,
+  "excluded_count": 39,
+  "blacklist_size": 0
 }
