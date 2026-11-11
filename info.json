@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-11T15:58:58.455705+00:00",
+  "updated": "2026-11-11T22:37:03.886961+00:00",
   "best_server": {
-    "name": "%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK",
-    "host": "sub-edge-18-1g.whitenw.net",
-    "port": 10458,
-    "ping_ms": 242,
+    "name": ".%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK",
+    "host": "185.86.147.175",
+    "port": 443,
+    "ping_ms": 163,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
   },
-  "top_servers_count": 1,
-  "tested_count": 1,
-  "stable_count": 1,
-  "vk_servers_found": 1,
+  "top_servers_count": 5,
+  "tested_count": 11,
+  "stable_count": 11,
+  "vk_servers_found": 11,
   "ya_servers_found": 0,
   "excluded_count": 0,
   "blacklist_size": 0
