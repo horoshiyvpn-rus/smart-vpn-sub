@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T01:48:21.645843+00:00",
+  "updated": "2026-11-19T12:42:32.250143+00:00",
   "best_server": {
     "name": "%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK",
-    "host": "r0xnfzk9ud.newwl.pro",
+    "host": "185.86.145.183",
     "port": 443,
-    "ping_ms": 162,
+    "ping_ms": 153,
     "stability": "100%",
     "is_vk": true,
     "is_ya": false
